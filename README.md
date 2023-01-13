@@ -1,2 +1,2 @@
-# nextcloud-plugin
+# Nextcloud Plugin
 Nextcloud plugin for Done
